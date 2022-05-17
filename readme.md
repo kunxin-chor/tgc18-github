@@ -1,2 +1,2 @@
-# Hello World
-Lorem Ispum!
+# Merlion Tourism Board
+Where the Merlion spits
